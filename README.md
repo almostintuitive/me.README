@@ -46,6 +46,7 @@ As we're building a small, but super-capable team, we ended up using a few techn
 - finding the right level of abstraction (react-native)
 - minimize state and therefore maintenance (serverless)
 - democratize information rather than building silos (typescript everywhere)
+
 These are the principles I'd like to apply to any future technical decisions as well. 
 
 I'll encourage everyone to find elegant, simple solutions to technical or product problems.
