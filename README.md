@@ -2,7 +2,7 @@
 
 # Motivation
 
-I'm a co-founder at Drops, and I personally feel responsible for all technical aspects of what we do.
+As co-founder at Drops, I personally feel responsible for the technical aspects of everything we do.
 
 My personal goal is to create disproportionate amount of value with my work.
 My goal with the team is to crate an environment where we can all do the same.
